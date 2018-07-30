@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.paulo.cursojava.aula53.DiaSemanConstantes"/>
+<fullyQualifiedTypeName name="com.paulo.cursojava.aula53.DiaSemana"/>
+<fullyQualifiedTypeName name="java.lang.Enum"/>
+<fullyQualifiedTypeName name="com.paulo.cursojava.aula54.DiaSemana"/>
+<fullyQualifiedTypeName name="com.paulo.cursojava.utilitarios.GeraCpfCnpj"/>
+<fullyQualifiedTypeName name="com.paulo.cursojava.aula56.pessoa"/>
+<fullyQualifiedTypeName name="com.paulo.cursojava.aula56.TipoDocumento"/>
+<fullyQualifiedTypeName name="java.lang.Double"/>
+<fullyQualifiedTypeName name="com.paulo.calcular.TipoSoma"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.paulo.threads.MinhaThreads"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.SliderUI"/>
+<fullyQualifiedTypeName name="com.paulo.threads.rumable.MilhaThreadRumable"/>
+<fullyQualifiedTypeName name="com.paulo.threads.calculadora.Calculadora"/>
+<fullyQualifiedTypeName name="com.paulo.threads.calculadora.MinhaTreadSoma"/>
+<fullyQualifiedTypeName name="com.paulo.threads.notifywait.TiqueTaque"/>
+<fullyQualifiedTypeName name="com.paulo.threads.notifywait.ThreadTiqueTaque"/>
+<fullyQualifiedTypeName name="com.paulo.threads.suspend.MinhaThread"/>
+<fullyQualifiedTypeName name="java.lang.Runnable"/>
+<fullyQualifiedTypeName name="CorSemafaro"/>
+<fullyQualifiedTypeName name="ThreadSemafaro"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="java.util.StringTokenizer"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Locale"/>
+<fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+<fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+<fullyQualifiedTypeName name="java.lang.Throwable"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="com.paulo.exececao.DivisaoNaoExata"/>
+</qualifiedTypeNameHistroy>
